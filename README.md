@@ -1,6 +1,8 @@
 # Analysis-Project
 Analysis is done using the python libraries such as pandas, seaborn, matplotlib, folium etc.. I have taken the various data set from the kaggle and took lot of help from youtube and stackoverflow to find varrous answers and whenever I got stuck.
 
+Below are the different graphs I plotted for different data set which has bar plot , Regression, folium, line, 
+
 
 ![index55](https://user-images.githubusercontent.com/101977665/219945516-f46cf59a-0f55-49fe-9dca-d1082ca2242b.png)
 ![index](https://user-images.githubusercontent.com/101977665/219945554-d1d6612c-ed6d-4e00-b62c-2388ec39539a.png)
